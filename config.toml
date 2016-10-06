@@ -1,7 +1,7 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
 title = "Plone Training - training.plone.org"
-theme = "hugo-universal-theme"
+theme = "plone_theme"
 
 [params]
 	copyright = "Plone and the Plone® logo are registered trademarks of the Plone Foundation."
